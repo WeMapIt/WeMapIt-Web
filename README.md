@@ -1,1 +1,2 @@
 # WeMapIt
+Project on pause
